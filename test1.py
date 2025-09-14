@@ -1,7 +1,7 @@
 import time
 ##import array
 
-givenSongBPM = 120
+givenSongBPM = 70
 
 print("\n\n\n\n\n")
 #how long we want to record each period and 
